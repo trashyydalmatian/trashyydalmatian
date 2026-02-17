@@ -21,11 +21,11 @@
   
   <table>
     <tr>
-      <td>$\color{#282828}{\textsf{"i'm ready for a ruff ruff rescue" - marshall paw patrol}}$<br>
-$\color{#282828}{\textsf{hi i'm nex or kazoo, i'm 17 and a 'mutt'}}$<br>
-$\color{#282828}{\textsf{boyflux and a d1 dalmatian kemonomimi/enthusiast}}$<br>
-$\color{#282828}{\textsf{i'm mostly with oomfs but feel free to interact unless specified otherwise}}$<br>
-$\color{#282828}{\textsf{his mutt, i love my coyote boyfriend colby}}$<br>
+      <td>$\color{#000000}{\textsf{"i'm ready for a ruff ruff rescue" - marshall paw patrol}}$<br>
+$\color{#000000}{\textsf{hi i'm nex or kazoo, i'm 17 and a 'mutt'}}$<br>
+$\color{#000000}{\textsf{boyflux and a d1 dalmatian kemonomimi/enthusiast}}$<br>
+$\color{#000000}{\textsf{i'm mostly with oomfs but feel free to interact unless specified otherwise}}$<br>
+$\color{#000000}{\textsf{his mutt, i love my coyote boyfriend colby}}$<br>
       </td>
     </tr>
   </table>
@@ -46,11 +46,11 @@ $\color{#282828}{\textsf{his mutt, i love my coyote boyfriend colby}}$<br>
   
   <table>
     <tr>
-      <td>$\color{#282828}{\textsf{“a dog is the only thing on earth that loves you more than you love yourself.”}}$<br>
-$\color{#282828}{\textsf{dni: racists, homophobes, transphobes}}$<br>
-$\color{#282828}{\textsf{-13 , 25+}}$<br>
-$\color{#282828}{\textsf{i can be 'petty' or come off rude at times just a warning in advance}}$<br>
-$\color{#282828}{\textsf{now playing: animal i have become - three days grace}}$<br>
+      <td>$\color{#000000}{\textsf{“a dog is the only thing on earth that loves you more than you love yourself.”}}$<br>
+$\color{#000000}{\textsf{dni: racists, homophobes, transphobes}}$<br>
+$\color{#000000}{\textsf{-13 , 25+}}$<br>
+$\color{#000000}{\textsf{i can be 'petty' or come off rude at times just a warning in advance}}$<br>
+$\color{#000000}{\textsf{now playing: animal i have become - three days grace}}$<br>
       </td>
     </tr>
   </table>
